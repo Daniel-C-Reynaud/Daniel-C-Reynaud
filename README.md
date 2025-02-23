@@ -1,8 +1,9 @@
 # 💫 Sobre Mim:
- - 📃 Aprendendo: Javascript<br>
- - 📍 Nacionalidade: Brasil<br>
+ - ⌨️ Aprendendo: Javascript<br>
+ - 🗺️ Nacionalidade: Brasil<br>
  - ❤️ Status: Solteiro<br>
- - ✍️ Pronomes: Ele/Dele
+ - ✍️ Pronomes: Ele/Dele<br>
+ - 👶 Nascimento: 29/03/2006<br>
 
 
 ### 🌐 Minhas Redes Sociais:
