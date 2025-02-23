@@ -21,11 +21,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-C-Reynaud&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=donut-vertical)
 <br>
-<br>
-
-### 🏆 Meus Troféus
-![](https://github-profile-trophy.vercel.app/?username=Daniel-C-Reynaud&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-</br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Daniel-C-Reynaud&icon=1&color=1)](https://visitcount.itsvg.in)
