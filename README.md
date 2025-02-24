@@ -19,7 +19,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-C-Reynaud&theme=dark&hide_border=false)
 <br>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-C-Reynaud&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=donut-vertical&width=5000px)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-C-Reynaud&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=donut-vertical)
 <br>
 
 ---
