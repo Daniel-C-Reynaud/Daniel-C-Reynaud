@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# 🌟 Sobre Mim:
  - ⌨️ Aprendendo: Javascript<br>
  - 🗺️ Nacionalidade: Brasil<br>
  - ❤️ Status: Solteiro<br>
