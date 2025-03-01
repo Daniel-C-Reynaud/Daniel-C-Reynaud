@@ -22,7 +22,7 @@
 <br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Daniel-C-Reynaud&icon=1&color=1)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=Daniel-C-Reynaud&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
