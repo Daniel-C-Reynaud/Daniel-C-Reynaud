@@ -19,7 +19,6 @@
 <br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-C-Reynaud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
-<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Daniel-C-Reynaud&icon=1&color=1)](https://visitcount.itsvg.in)
