@@ -23,7 +23,6 @@ Olha como não falar desse canal, graças a ele que me aventurei pelo mundo do J
 
 **Planos Futuros:**
 * **Programação em Geral**
-
 Busco masterizar Python e JavaScript para criar minhas proprias aplicações e afins, também quero extrair o máximo potencial dos frameworks como Nodejs e React, ainda estou no caminho mas sei que chegarei.
 
 * **Pequenos Projetos**
