@@ -22,13 +22,14 @@ Olha como não falar desse canal, graças a ele que me aventurei pelo mundo do J
 <br>
 
 **Planos Futuros:**
-* Programação em Geral
+* **Programação em Geral**
+
 Busco masterizar Python e JavaScript para criar minhas proprias aplicações e afins, também quero extrair o máximo potencial dos frameworks como Nodejs e React, ainda estou no caminho mas sei que chegarei.
 
-* Pequenos Projetos
+* **Pequenos Projetos**
 Com esses projetos busco treinar minha capacidade de ler e interpretar códigos, também gostaria de que com esses projetos eu consiga evoluir em todos os quesitos das linguagens recém ditas.
 
-* Trabalho
+* **Trabalho**
 Meu plano é trabalhar numa empresa qualquer que pague bem, todas requerem React, Next ou Nodejs mas é com os projetos que eu treino isso, meus repositórios ainda estão com apenas 3 linguagens principais, JavaScript, HTML e CSS sendo que apenas JS é a de programação. Mas mesmo assim busco aprimorar pra arrumar um trabalho bom.
 <br>
 ### 📊 Status Do Github:
