@@ -10,16 +10,7 @@
 
 ### 💻 Linguagens Que Sei:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-### 📊 Status Do Github:
-
-![](https://github-readme-stats.vercel.app/api?username=Daniel-C-Reynaud&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-C-Reynaud&theme=dark&hide_border=false)
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-C-Reynaud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
-
 ### 📍 Considerações Finais:
 **Inspirações:**
 * Gustavo Guanabara (Curso em Vídeo)
@@ -33,10 +24,22 @@ Olha como não falar desse canal, graças a ele que me aventurei pelo mundo do J
 **Planos Futuros:**
 * Programação em Geral
 Busco masterizar Python e JavaScript para criar minhas proprias aplicações e afins, também quero extrair o máximo potencial dos frameworks como Nodejs e React, ainda estou no caminho mas sei que chegarei.
+
 * Pequenos Projetos
 Com esses projetos busco treinar minha capacidade de ler e interpretar códigos, também gostaria de que com esses projetos eu consiga evoluir em todos os quesitos das linguagens recém ditas.
+
 * Trabalho
 Meu plano é trabalhar numa empresa qualquer que pague bem, todas requerem React, Next ou Nodejs mas é com os projetos que eu treino isso, meus repositórios ainda estão com apenas 3 linguagens principais, JavaScript, HTML e CSS sendo que apenas JS é a de programação. Mas mesmo assim busco aprimorar pra arrumar um trabalho bom.
+<br>
+### 📊 Status Do Github:
+
+![](https://github-readme-stats.vercel.app/api?username=Daniel-C-Reynaud&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Daniel-C-Reynaud&theme=dark&hide_border=false)
+<br>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-C-Reynaud&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Daniel-C-Reynaud&icon=1&color=1)](https://visitcount.itsvg.in)
