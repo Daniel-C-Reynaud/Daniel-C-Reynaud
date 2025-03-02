@@ -13,11 +13,11 @@
 <br>
 ### 📍 Detalhes Sobre Mim:
 **Inspirações:**
-* Gustavo Guanabara (Curso em Vídeo)
+* **Gustavo Guanabara** (Curso em Vídeo)
 Graças a ele eu decidi entrar no mundo da programação, desde que vi os cursos de Python reparei sua didática dinâmica e seu método unico de ensino.
-* Coding2go
+* **Coding2go**
 Canal gringo onde quase tudo o que foi aplicado foi por intermédio das aulas desse canal que além de explicativo também é dinamico.
-* ClubDev | Programação
+* **ClubDev | Programação**
 Olha como não falar desse canal, graças a ele que me aventurei pelo mundo do JavaScript de cabeça, aprendi arrays, objects e além disso muito mais com sua didática sólida e auto explicativa.
 <br>
 
