@@ -32,7 +32,7 @@ Com esses projetos busco treinar minha capacidade de ler e interpretar códigos,
 Meu plano é trabalhar numa empresa qualquer que pague bem, todas requerem React, Next ou Nodejs mas é com os projetos que eu treino isso, meus repositórios ainda estão com apenas 3 linguagens principais, JavaScript, HTML e CSS sendo que apenas JS é a de programação. Mas mesmo assim busco aprimorar pra arrumar um trabalho bom.
 <br>
 
-### 📊 Status Do Github:
+### 📊 Status Do GitHub:
 
 ![](https://github-readme-stats.vercel.app/api?username=Daniel-C-Reynaud&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br>
