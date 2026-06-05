@@ -28,7 +28,7 @@ Tava na It's Magic Engine mas mudei porque tava muita pressão com VIP<br>
 Shadow, G0LD3N_YOK4, Miojinha14b (enfim um montãaao)
 <br>
 
-### Frases Que Lasanha Idz Com Frequência:
+### Frases Que Lasanha Diz Com Frequência:
 **Mais Usadas**
 * **Poggers**
 * **Um País Da Europa**
