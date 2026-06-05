@@ -18,9 +18,7 @@ Jogo mais serio que envolve descobrimento de novos lugares e auto elevo e o desc
 * **MetroStyle:**
 Sei lá, só tava aprendendo javascript
 * **Here They Are:**
-Tava na It's Magic Engine mas mudei porque tava muita pressão com VIP
-
-<br>
+Tava na It's Magic Engine mas mudei porque tava muita pressão com VIP<br>
 ### Lasanha Tem Amigos?:
 *Na Vida Real*
 * **Anonimos** (tava esperando o que?)
