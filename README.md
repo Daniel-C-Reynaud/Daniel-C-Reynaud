@@ -20,14 +20,29 @@ Sei lá, só tava aprendendo javascript
 * **Here They Are:**
 Tava na It's Magic Engine mas mudei porque tava muita pressão com VIP<br>
 ### Lasanha Tem Amigos?:
-*Na Vida Real*
+**Na Vida Real**
 * **Anonimos** (tava esperando o que?)
 
-*Virtual*
+**Virtual**
 * **Um Bocado:**
 Shadow, G0LD3N_YOK4, Miojinha14b (enfim um montãaao)
 <br>
 
+### Frases Que Lasanha Idz Com Frequência:
+**Mais Usadas**
+* **Poggers**
+* **Um País Da Europa**
+* **Ah S#it Bulldozeeer!**
+* **Bye Bye As#hole Shild
+* **(Imitando o Jocket de L4D2)
+* **Resumo: Frases de PayDay2, L4D2 e Memes
+
+**Só De Vez Em Quando**
+* **Jack Of All Trades**
+* **La Ele**
+* **Acolá Ele**
+* **Sarte Bruxo**
+* **Resenhax do Clubex**<br>
 ### Status De Lasanha No GitHub:
 
 ![](https://github-readme-stats.vercel.app/api?username=Daniel-C-Reynaud&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
