@@ -33,9 +33,9 @@ Shadow, G0LD3N_YOK4, Miojinha14b (enfim um montãaao)
 * **Poggers**
 * **Um País Da Europa**
 * **Ah S#it Bulldozeeer!**
-* **Bye Bye As#hole Shild
+* **Bye Bye As#hole Shild****
 * **(Imitando o Jocket de L4D2)
-* **Resumo: Frases de PayDay2, L4D2 e Memes
+* **Resumo: Frases de PayDay2, L4D2 e Memes**
 
 **Só De Vez Em Quando**
 * **Jack Of All Trades**
