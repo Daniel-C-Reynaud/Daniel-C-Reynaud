@@ -1,7 +1,7 @@
 # Sobre Essa Lasanha:
  -  Aprendendo: Luau<br>
  -  Nacionalidade: Brasil<br>
- -  Status: Solteiro<br>
+ -  Status: Solteirex do Clubex<br>
  -  Pronomes: Las/anha<br>
  -  Nascimento: 29/03/2006<br>
 
