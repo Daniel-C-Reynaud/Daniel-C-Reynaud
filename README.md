@@ -22,6 +22,7 @@ Tava na It's Magic Engine mas mudei porque tava muita pressão com VIP<br>
 ### Lasanha Tem Amigos?:
 *Na Vida Real*
 * **Anonimos** (tava esperando o que?)
+
 *Virtual*
 * **Um Bocado:**
 Shadow, G0LD3N_YOK4, Miojinha14b (enfim um montãaao)
