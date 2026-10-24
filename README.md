@@ -13,7 +13,8 @@
 * **Sorrow Roulette:**
 Joguinho de tiro em roleta russa do roblox baseado em apertar as teclas tipo um Quick Time Event.
 * **We Live In Yokriye:**
-Jogo mais serio que envolve descobrimento de novos lugares e auto elevo e o descobrimento de suas capacidades.<br>
+Jogo mais serio que envolve descobrimento de novos lugares e auto elevo e o descobrimento de suas capacidades.
+
 **Projetos Fora Da Roblox**
 * **MetroStyle:**
 Sei lá, só tava aprendendo javascript
